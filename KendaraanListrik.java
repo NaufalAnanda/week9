@@ -18,6 +18,7 @@ public abstract class KendaraanListrik implements KonsumsiEnergi{
     }
  
     public abstract double hitungWaktuPengisian();
+    //coba untuk pull
 
    
 }
